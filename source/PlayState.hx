@@ -672,7 +672,7 @@ class PlayState extends MusicBeatState
 				th2.updateHitbox();
 				add(th2);
 
-//
+
 				th3 = new BGSprite('tech/tn3', 0, -200, 0.5, 0.5, ['tn3 idle']);
 				th3.setGraphicSize(Std.int(th3.width * 0.8));
 				th3.updateHitbox();
