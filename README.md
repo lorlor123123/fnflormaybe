@@ -17,3 +17,4 @@ You can do this with: `haxelib install linc_luajit` on a Command prompt/PowerShe
 
 ## remember
 this source code is Secret yet!
+because FNF LOR WEEK isn't open now
