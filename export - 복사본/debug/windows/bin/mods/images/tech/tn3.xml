@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="tn3.png"><SubTexture name="tn3 idle0000" x="0" y="0" width="918" height="810" frameX="0" frameY="0" frameWidth="918" frameHeight="810" />
+<SubTexture name="tn3 idle0001" x="918" y="0" width="918" height="810" frameX="0" frameY="0" frameWidth="918" frameHeight="810" />
+<SubTexture name="tn3 idle0002" x="0" y="810" width="918" height="810" frameX="0" frameY="0" frameWidth="918" frameHeight="810" />
+<SubTexture name="tn3 idle0003" x="918" y="810" width="918" height="810" frameX="0" frameY="0" frameWidth="918" frameHeight="810" />
+<SubTexture name="tn3 idle0004" x="0" y="1620" width="918" height="810" frameX="0" frameY="0" frameWidth="918" frameHeight="810" />
+<SubTexture name="tn3 idle0005" x="918" y="1620" width="918" height="810" frameX="0" frameY="0" frameWidth="918" frameHeight="810" />
+</TextureAtlas>

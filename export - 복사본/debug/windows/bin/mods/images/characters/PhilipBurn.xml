@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PhilipBurn.png"><SubTexture name="PhilipBurn IDLE0000" x="0" y="0" width="813" height="847" frameX="0" frameY="0" frameWidth="813" frameHeight="847" />
+<SubTexture name="PhilipBurn IDLE0001" x="813" y="0" width="813" height="847" frameX="0" frameY="0" frameWidth="813" frameHeight="847" />
+<SubTexture name="PhilipBurn IDLE0002" x="1626" y="0" width="813" height="847" frameX="0" frameY="0" frameWidth="813" frameHeight="847" />
+<SubTexture name="PhilipBurn IDLE0003" x="2439" y="0" width="813" height="847" frameX="0" frameY="0" frameWidth="813" frameHeight="847" />
+<SubTexture name="PhilipBurn IDLE0004" x="0" y="847" width="813" height="847" frameX="0" frameY="0" frameWidth="813" frameHeight="847" />
+<SubTexture name="PhilipBurn IDLE0005" x="813" y="847" width="813" height="847" frameX="0" frameY="0" frameWidth="813" frameHeight="847" />
+<SubTexture name="PhilipBurn IDLE0006" x="1626" y="847" width="813" height="847" frameX="0" frameY="0" frameWidth="813" frameHeight="847" />
+<SubTexture name="PhilipBurn IDLE0007" x="2439" y="847" width="813" height="847" frameX="0" frameY="0" frameWidth="813" frameHeight="847" />
+<SubTexture name="PhilipBurn SingingLEFT0000" x="0" y="1694" width="850" height="831" frameX="0" frameY="0" frameWidth="850" frameHeight="831" />
+<SubTexture name="PhilipBurn SingingLEFT0001" x="850" y="1694" width="850" height="831" frameX="0" frameY="0" frameWidth="850" frameHeight="831" />
+<SubTexture name="PhilipBurn SingingLEFT0002" x="1700" y="1694" width="850" height="831" frameX="0" frameY="0" frameWidth="850" frameHeight="831" />
+<SubTexture name="PhilipBurn SingingUP0000" x="2550" y="1694" width="1127" height="880" frameX="0" frameY="0" frameWidth="1127" frameHeight="880" />
+<SubTexture name="PhilipBurn SingingUP0001" x="0" y="2574" width="1127" height="880" frameX="0" frameY="0" frameWidth="1127" frameHeight="880" />
+<SubTexture name="PhilipBurn SingingUP0002" x="1127" y="2574" width="1127" height="880" frameX="0" frameY="0" frameWidth="1127" frameHeight="880" />
+<SubTexture name="PhilipBurn SingingDOWN0000" x="2254" y="2574" width="1431" height="759" frameX="0" frameY="0" frameWidth="1431" frameHeight="759" />
+<SubTexture name="PhilipBurn SingingDOWN0001" x="3685" y="2574" width="1431" height="759" frameX="0" frameY="0" frameWidth="1431" frameHeight="759" />
+<SubTexture name="PhilipBurn SingingDOWN0002" x="0" y="3454" width="1431" height="759" frameX="0" frameY="0" frameWidth="1431" frameHeight="759" />
+<SubTexture name="PhilipBurn SingingRIGHT0000" x="1431" y="3454" width="1477" height="972" frameX="0" frameY="0" frameWidth="1477" frameHeight="972" />
+<SubTexture name="PhilipBurn SingingRIGHT0001" x="2908" y="3454" width="1477" height="972" frameX="0" frameY="0" frameWidth="1477" frameHeight="972" />
+<SubTexture name="PhilipBurn SingingRIGHT0002" x="4385" y="3454" width="1477" height="972" frameX="0" frameY="0" frameWidth="1477" frameHeight="972" />
+</TextureAtlas>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cat.png"><SubTexture name="cat nomal0000" x="0" y="0" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat nomal0001" x="1004" y="0" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat nomal0002" x="2008" y="0" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat nomal0003" x="3012" y="0" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat nomal0004" x="4016" y="0" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat nomal0005" x="0" y="1254" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat up0000" x="1004" y="1254" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat up0001" x="2008" y="1254" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat up0002" x="3012" y="1254" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat up0003" x="4016" y="1254" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat up0004" x="0" y="2508" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat right0000" x="1004" y="2508" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat right0001" x="2008" y="2508" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat right0002" x="3012" y="2508" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat right0003" x="4016" y="2508" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat right0004" x="0" y="3762" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat left0000" x="1004" y="3762" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat left0001" x="2008" y="3762" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat left0002" x="3012" y="3762" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat left0003" x="4016" y="3762" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat left0004" x="0" y="5016" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat down0000" x="1004" y="5016" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat down0001" x="2008" y="5016" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat down0002" x="3012" y="5016" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat down0003" x="4016" y="5016" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+<SubTexture name="cat down0004" x="0" y="6270" width="1004" height="1254" frameX="0" frameY="0" frameWidth="1004" frameHeight="1254" />
+</TextureAtlas>

@@ -1,0 +1,57 @@
+{
+	"songs": [
+		[
+			"Flame",
+			"phlip",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Stain",
+			"phlip",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Food-Lover",
+			"phlip",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Cosmic",
+			"phlip",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "down",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "BLUE REVERBERATION",
+	"weekName": "aslyah",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
