@@ -1,0 +1,24 @@
+{
+	"position": [
+		-20,
+		190
+	],
+	"dialogue_pos": "right",
+	"scale": 1,
+	"image": "BF",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "BF.png",
+			"loop_name": "BF.png"
+		}
+	]
+}

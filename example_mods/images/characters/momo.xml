@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="momo.png"><SubTexture name="momo nomal0000" x="0" y="0" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo nomal0001" x="1382" y="0" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo nomal0002" x="2764" y="0" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo nomal0003" x="4146" y="0" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo nomal0004" x="0" y="1382" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo nomal0005" x="1382" y="1382" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo nomal0006" x="2764" y="1382" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo nomal0007" x="4146" y="1382" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo nomal0008" x="0" y="2764" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo nomal0009" x="1382" y="2764" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo down0000" x="2764" y="2764" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo down0001" x="4146" y="2764" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo down0002" x="0" y="4146" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo up0000" x="1382" y="4146" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo up0001" x="2764" y="4146" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo up0002" x="4146" y="4146" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo left0000" x="0" y="5528" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo left0001" x="1382" y="5528" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo left0002" x="2764" y="5528" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo right0000" x="4146" y="5528" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo right0001" x="0" y="6910" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+<SubTexture name="momo right0002" x="1382" y="6910" width="1382" height="1382" frameX="0" frameY="0" frameWidth="1382" frameHeight="1382" />
+</TextureAtlas>

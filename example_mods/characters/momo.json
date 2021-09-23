@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				324
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "momo nomal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				602,
+				307
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "momo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				463,
+				309
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "momo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				434,
+				350
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "momo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				322,
+				327
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "momo right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "momo nomal",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "momo left",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "momo right",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "momo up",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/momo",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "momo",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "PhilipBurn IDLE"
+		},
+		{
+			"offsets": [
+				111,
+				-20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "PhilipBurn SingingLEFT"
+		},
+		{
+			"offsets": [
+				634,
+				-63
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "PhilipBurn SingingDOWN"
+		},
+		{
+			"offsets": [
+				457,
+				30
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "PhilipBurn SingingUP"
+		},
+		{
+			"offsets": [
+				293,
+				122
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "PhilipBurn SingingRIGHT"
+		},
+		{
+			"offsets": [
+				108,
+				-16
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"loop": true,
+			"name": "PhilipBurn SingingLEFT"
+		},
+		{
+			"offsets": [
+				300,
+				127
+			],
+			"indices": [
+				1,
+				2
+			],
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"loop": true,
+			"name": "PhilipBurn SingingRIGHT"
+		},
+		{
+			"offsets": [
+				469,
+				34
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-loop",
+			"loop": true,
+			"name": "PhilipBurn SingingUP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "PhilipBurn IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/PhilipBurn",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "phlip",
+	"flip_x": false,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
