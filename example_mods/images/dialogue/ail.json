@@ -1,0 +1,24 @@
+{
+	"position": [
+		80,
+		190
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Ail",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				1,
+				-11
+			],
+			"anim": "talk",
+			"idle_name": "Ail.png",
+			"loop_name": "Ail.png"
+		}
+	]
+}

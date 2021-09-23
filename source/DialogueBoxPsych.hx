@@ -173,10 +173,10 @@ class DialogueBoxPsych extends FlxSpriteGroup
 		
 		super();
 		var cutscene:FlxSprite;
-		if(song != null && song != '') {
-			FlxG.sound.playMusic(Paths.music(song), 0);
-			FlxG.sound.music.fadeIn(2, 0, 1);
-		}
+	//	if(song != null && song != '') {
+	//		FlxG.sound.playMusic(Paths.music(song), 0);
+	//		FlxG.sound.music.fadeIn(2, 0, 1);
+	//	}
 		
 		bgFade = new FlxSprite(-523232300, -523232300).makeGraphic(FlxG.width * 2, FlxG.height * 2, FlxColor.WHITE);
 		bgFade.scrollFactor.set();
@@ -184,11 +184,16 @@ class DialogueBoxPsych extends FlxSpriteGroup
 		bgFade.alpha = 0;
 		add(bgFade);
 
-		
-		cutscene = new FlxSprite(0, 0).loadGraphic(Paths.image('wowcut/1'));
-		add(cutscene);
-		
+		switch (PlayState.SONG.song.toLowerCase())
+		{
+			case 'flame':
+				cutscene = new FlxSprite(0, 0).loadGraphic(Paths.image('wowcut/1'));
+				add(cutscene);
 
+			case 'stain':
+				cutscene = new FlxSprite(0, 0).loadGraphic(Paths.image('wowcut/2'));
+				add(cutscene);
+		}
 
 
 		this.dialogueList = dialogueList;
@@ -208,7 +213,7 @@ class DialogueBoxPsych extends FlxSpriteGroup
 		box.animation.addByPrefix('center-angryOpen', 'speech bubble Middle loud open', 24, false);
 		box.animation.play('normal', true);
 		box.visible = false;
-		box.setGraphicSize(Std.int(box.width * 0.9));
+		box.setGraphicSize(Std.int(box.width * 1.25));
 		box.updateHitbox();
 		add(box);
 

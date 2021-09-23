@@ -1,18 +1,88 @@
 {
 	"dialogue": [
 		{
-			"speed": 0.05,
-			"portrait": "gf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "da"
+			"text": "So, the reason Angela called us is to deal\\nwith the reverberation orchestra\\nwith a song?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
 		},
 		{
-			"speed": 0.05,
-			"portrait": "bf",
-			"boxState": "normal",
 			"expression": "talk",
-			"text": "coolswag"
+			"text": "Seriously?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": ".....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "philip"
+		},
+		{
+			"expression": "talk",
+			"text": "Hello, I'm Philip.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "philip"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep beep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Angela sent you out agaunst me.\\ncan you speak?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "philip"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": ".....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "philip"
+		},
+		{
+			"expression": "talk",
+			"text": "i came here to sing.\\nThe same goes for my colleagues.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "philip"
+		},
+		{
+			"expression": "talk",
+			"text": "Then, I will start without saying much.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "philip"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
 		}
 	]
 }
