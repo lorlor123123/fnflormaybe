@@ -609,7 +609,7 @@ class PlayState extends MusicBeatState
 				}
 
 
-			case 'philip':
+			case 'philip': //week 1 stage 1
 
 				var bg:BGSprite = new BGSprite('philip/back', -600, -400, 0.9, 0.9);
 				add(bg);
