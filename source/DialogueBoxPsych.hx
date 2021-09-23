@@ -164,38 +164,46 @@ class DialogueBoxPsych extends FlxSpriteGroup
 
 	var currentText:Int = 0;
 	var offsetPos:Float = -600;
-
+	private var curSong:String = "";
 	var textBoxTypes:Array<String> = ['normal', 'angry'];
 	//var charPositionList:Array<String> = ['left', 'center', 'right'];
 
 	public function new(dialogueList:DialogueFile, ?song:String = null)
 	{
+		
 		super();
-
+		var cutscene:FlxSprite;
 		if(song != null && song != '') {
 			FlxG.sound.playMusic(Paths.music(song), 0);
 			FlxG.sound.music.fadeIn(2, 0, 1);
 		}
 		
-		bgFade = new FlxSprite(-500, -500).makeGraphic(FlxG.width * 2, FlxG.height * 2, FlxColor.WHITE);
+		bgFade = new FlxSprite(-523232300, -523232300).makeGraphic(FlxG.width * 2, FlxG.height * 2, FlxColor.WHITE);
 		bgFade.scrollFactor.set();
 		bgFade.visible = true;
 		bgFade.alpha = 0;
 		add(bgFade);
 
+		
+		cutscene = new FlxSprite(0, 0).loadGraphic(Paths.image('wowcut/1'));
+		add(cutscene);
+		
+
+
+
 		this.dialogueList = dialogueList;
 		spawnCharacters();
 
-		box = new FlxSprite(70, 370);
-		box.frames = Paths.getSparrowAtlas('speech_bubble');
+		box = new FlxSprite(0, -80);
+		box.frames = Paths.getSparrowAtlas('dia');
 		box.scrollFactor.set();
 		box.antialiasing = ClientPrefs.globalAntialiasing;
-		box.animation.addByPrefix('normal', 'speech bubble normal', 24);
-		box.animation.addByPrefix('normalOpen', 'Speech Bubble Normal Open', 24, false);
-		box.animation.addByPrefix('angry', 'AHH speech bubble', 24);
-		box.animation.addByPrefix('angryOpen', 'speech bubble loud open', 24, false);
-		box.animation.addByPrefix('center-normal', 'speech bubble middle', 24);
-		box.animation.addByPrefix('center-normalOpen', 'Speech Bubble Middle Open', 24, false);
+		box.animation.addByPrefix('normal', 'nomal', 24);
+		box.animation.addByPrefix('normalOpen', 'dia', 24, false);
+		box.animation.addByPrefix('angry', 'nomal', 24);
+		box.animation.addByPrefix('angryOpen', 'dia', 24, false);
+		box.animation.addByPrefix('center-normal', 'nomal', 24);
+		box.animation.addByPrefix('center-normalOpen', 'dia', 24, false);
 		box.animation.addByPrefix('center-angry', 'AHH Speech Bubble middle', 24);
 		box.animation.addByPrefix('center-angryOpen', 'speech bubble Middle loud open', 24, false);
 		box.animation.play('normal', true);

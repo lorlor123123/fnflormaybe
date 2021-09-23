@@ -1079,7 +1079,7 @@ class PlayState extends MusicBeatState
 
 
 			//	case 'flame':
-			//		startDialogue(dialogueJson);
+
 
 				default:
 					startCountdown();
