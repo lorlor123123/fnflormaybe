@@ -16,4 +16,4 @@ You can do this with: `haxelib install linc_luajit` on a Command prompt/PowerShe
 * Keoiki - Note Splash Animations
 
 ## remember
-this source code is Secret!
+this source code is Secret yet!
